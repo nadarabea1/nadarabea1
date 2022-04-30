@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnEoS0O3XfLayqfu3Owsd2HZuoDTH7Cxgs-w&usqp=CAU">
 
-- 🔭 I’m currently At **Alexandria Univercity**
+- 🔭 I’m currently At **Alexandria University**
 
 - 🌱 I’m currently learning **Advanced Java, Flutter and Groovy.**
 
