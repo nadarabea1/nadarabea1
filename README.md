@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nada Rabea</h1>
 <h3 align="center">Computer Science Student</h3>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit,f_auto,fl_progressive,q_66,w_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnEoS0O3XfLayqfu3Owsd2HZuoDTH7Cxgs-w&usqp=CAU">
 
 - 🔭 I’m currently At **Alexandria Univercity**
 
