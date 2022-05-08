@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently At **Alexandria University**
 
-- 🌱 I’m currently learning **Advanced Java, Flutter and Groovy.**
+- 🌱 I’m currently learning **Advanced Java, Golang, Dart and Groovy .**
 
 - 🤝 I’m open to internship **as Software Engineer**
 
