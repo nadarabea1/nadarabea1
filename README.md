@@ -6,11 +6,14 @@
 - 🔭 I’m currently Trainee at **ITI Alexandria Branch**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/nada-rabea-03048b1b3" target="blank">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/nada-rabea-0/3048b1b3" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nada-rabea-03048b1b3" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/https://leetcode.com/nadarabea81/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nadarabea81/" height="30" width="40" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/nadarabea81" target="blank">
+        <img align="center" src="https://www.svgrepo.com/show/330599/hackerrank.svg" alt="https://leetcode.com/nadarabea81/" height="30" width="40" />
     </a>
 </p>
 
